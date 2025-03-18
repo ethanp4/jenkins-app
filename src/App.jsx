@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <p>This is my Ethan Pelletier's jenkins App</p>
+      <p>This is Ethan Pelletier's jenkins App</p>
     </>
   )
 }
